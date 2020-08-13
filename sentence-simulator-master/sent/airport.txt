@@ -1,0 +1,100 @@
+airport	describe logan airport
+airport	show me airports in kansas city dc
+airport	what is the name of the airport in washington dc
+airport	describe logan
+airport	describe boston airport
+airport	show me airports in houston dc
+airport	describe logan
+airport	describe dulles
+airport	what is the name of the airport in memphis dc
+airport	what is the name of the airport in burbank dc
+airport	describe pittsburgh airport
+airport	show me airports in new york city dc
+airport	describe atlanta airport
+airport	describe dulles
+airport	show me airports in st. louis dc
+airport	show me airports in dallas dc
+airport	airports in cleveland dc
+airport	describe logan airport
+airport	show me airports in vegas dc
+airport	what is the name of the airport in la dc
+airport	what is the name of the airport in indianapolis dc
+airport	airports in burbank dc
+airport	describe boston airport
+airport	airports in vegas dc
+airport	describe dulles
+airport	what is the name of the airport in charlotte dc
+airport	describe san francisco airport
+airport	airports in vegas dc
+airport	airports in san diego dc
+airport	show me airports in nashville dc
+airport	describe dulles
+airport	describe phoenix airport
+airport	what is the name of the airport in atlanta dc
+airport	airports in la dc
+airport	what is the name of the airport in philly dc
+airport	describe love field
+airport	describe general mitchell international
+airport	describe baltimore airport
+airport	describe phoenix airport
+airport	show me airports in westchester dc
+airport	airports in nashville dc
+airport	show me airports in denver dc
+airport	describe logan airport
+airport	airports in san francisco dc
+airport	airports in columbus dc
+airport	describe atlanta airport
+airport	describe boston airport
+airport	what is the name of the airport in dallas dc
+airport	show me airports in miami dc
+airport	show me airports in baltimore dc
+airport	describe phoenix airport
+airport	describe pittsburgh airport
+airport	describe logan
+airport	describe logan airport
+airport	show me airports in st. paul dc
+airport	what is the name of the airport in boston dc
+airport	describe dulles
+airport	describe love field
+airport	airports in westchester county dc
+airport	describe love field
+airport	describe logan
+airport	describe dallas airport
+airport	describe phoenix airport
+airport	describe baltimore airport
+airport	show me airports in new york city dc
+airport	describe lester pearson airport
+airport	describe dallas airport
+airport	airports in phoenix dc
+airport	airports in boston dc
+airport	show me airports in pittsburgh dc
+airport	describe atlanta airport
+airport	what is the name of the airport in washington dc
+airport	describe love field
+airport	show me airports in kansas city dc
+airport	describe dallas airport
+airport	describe baltimore airport
+airport	show me airports in newark dc
+airport	describe san francisco airport
+airport	describe general mitchell international
+airport	what is the name of the airport in philadelphia dc
+airport	show me airports in detroit dc
+airport	describe boston airport
+airport	show me airports in washington dc
+airport	describe pittsburgh airport
+airport	show me airports in kansas city dc
+airport	describe philadelphia airport
+airport	describe baltimore airport
+airport	describe lester pearson airport
+airport	what is the name of the airport in washington dc
+airport	airports in vegas dc
+airport	describe general mitchell international
+airport	describe lester pearson airport
+airport	describe philadelphia airport
+airport	describe philadelphia airport
+airport	airports in new york dc
+airport	show me airports in philadelphia dc
+airport	describe pittsburgh airport
+airport	show me airports in pittsburgh dc
+airport	describe phoenix airport
+airport	describe love field

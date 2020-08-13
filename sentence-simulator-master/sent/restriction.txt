@@ -1,0 +1,100 @@
+restriction	what are the air restrictions on flights from st. paul to las vegas for the airfare of 932 dollars
+restriction	what are the air restrictions on flights from washington to seattle for the airfare of 932 dollars
+restriction	what are the air restrictions on flights from westchester county to tampa for the airfare of 416 dollars
+restriction	what are the air restrictions on flights from salt lake city to washington for the airfare of 416 dollars
+restriction	what are the air restrictions on flights from san francisco to new york city for the airfare of 416 dollars
+restriction	what are the air restrictions on flights from milwaukee to cleveland for the airfare of 932 dollars
+restriction	what are the air restrictions on flights from pittsburgh to montreal for the airfare of 400 dollars
+restriction	what are the air restrictions on flights from cleveland to denver for the airfare of 400 dollars
+restriction	what are the air restrictions on flights from charlotte to montreal for the airfare of 416 dollars
+restriction	what are the air restrictions on flights from detroit to los angeles for the airfare of 1000 dollars
+restriction	what are the air restrictions on flights from denver to indianapolis for the airfare of 400 dollars
+restriction	what are the air restrictions on flights from las vegas to philadelphia for the airfare of 932 dollars
+restriction	what are the air restrictions on flights from newark to baltimore for the airfare of 932 dollars
+restriction	what are the air restrictions on flights from denver to san diego for the airfare of 932 dollars
+restriction	what are the air restrictions on flights from las vegas to los angeles for the airfare of 400 dollars
+restriction	what are the air restrictions on flights from san diego to nashville for the airfare of 1000 dollars
+restriction	what are the air restrictions on flights from dallas to salt lake city for the airfare of 932 dollars
+restriction	what are the air restrictions on flights from san jose to las vegas for the airfare of 1288
+restriction	what are the air restrictions on flights from fort worth to westchester county for the airfare of 932 dollars
+restriction	what are the air restrictions on flights from washington to miami for the airfare of 932 dollars
+restriction	what are the air restrictions on flights from new york to st. louis for the airfare of 416 dollars
+restriction	what are the air restrictions on flights from dallas fort worth to dallas for the airfare of 1000 dollars
+restriction	what are the air restrictions on flights from san francisco to phoenix for the airfare of 1000 dollars
+restriction	what are the air restrictions on flights from dallas to new york for the airfare of 1288
+restriction	what are the air restrictions on flights from dallas to dallas fort worth for the airfare of 1000 dollars
+restriction	what are the air restrictions on flights from san jose to westchester county for the airfare of 1000 dollars
+restriction	what are the air restrictions on flights from nashville to orlando for the airfare of 416 dollars
+restriction	what are the air restrictions on flights from chicago to salt lake city for the airfare of 466 dollars
+restriction	what are the air restrictions on flights from st. louis to nashville for the airfare of 932 dollars
+restriction	what are the air restrictions on flights from burbank to philly for the airfare of 1000 dollars
+restriction	what are the air restrictions on flights from philly to kansas city for the airfare of 1288
+restriction	what are the air restrictions on flights from phoenix to seattle for the airfare of 1288
+restriction	what are the air restrictions on flights from columbus to milwaukee for the airfare of 1288
+restriction	what are the air restrictions on flights from phoenix to memphis for the airfare of 416 dollars
+restriction	what are the air restrictions on flights from cincinnati to kansas city for the airfare of 1000 dollars
+restriction	what are the air restrictions on flights from indianapolis to miami for the airfare of 932 dollars
+restriction	what are the air restrictions on flights from charlotte to boston for the airfare of 400 dollars
+restriction	what are the air restrictions on flights from tacoma to indianapolis for the airfare of 932 dollars
+restriction	what are the air restrictions on flights from st. paul to st. paul for the airfare of 416 dollars
+restriction	what are the air restrictions on flights from miami to tampa for the airfare of 400 dollars
+restriction	what are the air restrictions on flights from westchester county to salt lake city for the airfare of 1000 dollars
+restriction	what are the air restrictions on flights from kansas city to los angeles for the airfare of 1288
+restriction	what are the air restrictions on flights from baltimore to detroit for the airfare of 416 dollars
+restriction	what are the air restrictions on flights from new york city to orlando for the airfare of 466 dollars
+restriction	what are the air restrictions on flights from dallas to toronto for the airfare of 1000 dollars
+restriction	what are the air restrictions on flights from seattle to salt lake city for the airfare of 400 dollars
+restriction	what are the air restrictions on flights from new york to columbus for the airfare of 932 dollars
+restriction	what are the air restrictions on flights from dallas to san jose for the airfare of 932 dollars
+restriction	what are the air restrictions on flights from new york to fort worth for the airfare of 932 dollars
+restriction	what are the air restrictions on flights from columbus to fort worth for the airfare of 400 dollars
+restriction	what are the air restrictions on flights from las vegas to tacoma for the airfare of 416 dollars
+restriction	what are the air restrictions on flights from cleveland to orlando for the airfare of 400 dollars
+restriction	what are the air restrictions on flights from city of boston to st. petersburg for the airfare of 466 dollars
+restriction	what are the air restrictions on flights from seattle to dallas fort worth for the airfare of 932 dollars
+restriction	what are the air restrictions on flights from pittsburgh to westchester county for the airfare of 466 dollars
+restriction	what are the air restrictions on flights from dallas fort worth to memphis for the airfare of 416 dollars
+restriction	what are the air restrictions on flights from westchester county to san francisco for the airfare of 416 dollars
+restriction	what are the air restrictions on flights from phoenix to westchester county for the airfare of 466 dollars
+restriction	what are the air restrictions on flights from new york to milwaukee for the airfare of 932 dollars
+restriction	what are the air restrictions on flights from oakland to boston for the airfare of 400 dollars
+restriction	what are the air restrictions on flights from baltimore to san jose for the airfare of 416 dollars
+restriction	what are the air restrictions on flights from seattle to ontario for the airfare of 932 dollars
+restriction	what are the air restrictions on flights from montreal to minneapolis for the airfare of 416 dollars
+restriction	what are the air restrictions on flights from baltimore to st. petersburg for the airfare of 1288
+restriction	what are the air restrictions on flights from memphis to miami for the airfare of 1000 dollars
+restriction	what are the air restrictions on flights from pittsburgh to ontario for the airfare of 1288
+restriction	what are the air restrictions on flights from miami to minneapolis for the airfare of 1288
+restriction	what are the air restrictions on flights from new york city to la for the airfare of 1000 dollars
+restriction	what are the air restrictions on flights from baltimore to vegas for the airfare of 466 dollars
+restriction	what are the air restrictions on flights from miami to vegas for the airfare of 466 dollars
+restriction	what are the air restrictions on flights from milwaukee to tampa for the airfare of 466 dollars
+restriction	what are the air restrictions on flights from orlando to dallas fort worth for the airfare of 400 dollars
+restriction	what are the air restrictions on flights from vegas to denver for the airfare of 932 dollars
+restriction	what are the air restrictions on flights from san francisco to san diego for the airfare of 1288
+restriction	what are the air restrictions on flights from seattle to fort worth for the airfare of 1288
+restriction	what are the air restrictions on flights from toronto to orlando for the airfare of 1288
+restriction	what are the air restrictions on flights from nashville to vegas for the airfare of 1000 dollars
+restriction	what are the air restrictions on flights from dallas fort worth to baltimore for the airfare of 1288
+restriction	what are the air restrictions on flights from indianapolis to kansas city for the airfare of 1000 dollars
+restriction	what are the air restrictions on flights from st. petersburg to st. petersburg for the airfare of 466 dollars
+restriction	what are the air restrictions on flights from toronto to tacoma for the airfare of 932 dollars
+restriction	what are the air restrictions on flights from indianapolis to tacoma for the airfare of 466 dollars
+restriction	what are the air restrictions on flights from denver to philly for the airfare of 1000 dollars
+restriction	what are the air restrictions on flights from minneapolis to miami for the airfare of 1000 dollars
+restriction	what are the air restrictions on flights from city of boston to pittsburgh for the airfare of 1000 dollars
+restriction	what are the air restrictions on flights from oakland to cincinnati for the airfare of 1000 dollars
+restriction	what are the air restrictions on flights from tacoma to westchester county for the airfare of 932 dollars
+restriction	what are the air restrictions on flights from orlando to phoenix for the airfare of 1288
+restriction	what are the air restrictions on flights from fort worth to columbus for the airfare of 1000 dollars
+restriction	what are the air restrictions on flights from minneapolis to baltimore for the airfare of 400 dollars
+restriction	what are the air restrictions on flights from ontario to westchester county for the airfare of 466 dollars
+restriction	what are the air restrictions on flights from denver to san francisco for the airfare of 400 dollars
+restriction	what are the air restrictions on flights from san diego to st. petersburg for the airfare of 416 dollars
+restriction	what are the air restrictions on flights from westchester county to montreal for the airfare of 932 dollars
+restriction	what are the air restrictions on flights from houston to westchester county for the airfare of 1288
+restriction	what are the air restrictions on flights from new york to memphis for the airfare of 1288
+restriction	what are the air restrictions on flights from newark to dallas fort worth for the airfare of 1288
+restriction	what are the air restrictions on flights from washington to chicago for the airfare of 466 dollars
+restriction	what are the air restrictions on flights from westchester county to miami for the airfare of 1288
+restriction	what are the air restrictions on flights from fort worth to san jose for the airfare of 1288

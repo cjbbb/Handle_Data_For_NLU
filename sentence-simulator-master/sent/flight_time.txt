@@ -1,0 +1,100 @@
+flight_time	what is the total departure times for us air flights to all airports
+flight_time	what is the total schedule for flights for continental airlines flights to all airports
+flight_time	what is the schedule of the 767 from newark and oakland on september twenty first
+flight_time	i would like the times of flight between cleveland to memphis on march thirtieth
+flight_time	what is the total departure time for nationair flights to all airports
+flight_time	what departure times of the f28 from pittsburgh to montreal on thursday
+flight_time	what is the departure time does the flight leave new york to indianapolis on the night of july sixth
+flight_time	what times of flight of the 767 from oakland to burbank on northwest
+flight_time	please give me the flight times are the flights leaving from kansas city to charlotte on southwest airlines
+flight_time	what times of flight between detroit to westchester county on midwest
+flight_time	what is the times of flight are the flights leaving from boston to san jose on friday
+flight_time	what is the total departure times for nationair flights to all airports
+flight_time	what is the total times of flight for canadian airlines international flights to all airports
+flight_time	what is the total times for northwest flights to all airports
+flight_time	what is the total times of your flights for nationair flights to all airports
+flight_time	show me departure times the morning on southwest airlines for april first from st. paul going to columbus on the afternoon of october twentieth
+flight_time	what time your shortest flight from dallas going to nashville on american airline
+flight_time	what is the total times of flight for united airlines flights to all airports
+flight_time	i would like the times of flight your during the week flight from seattle to toronto on canadian airlines international
+flight_time	what schedule for flights between long beach going to dallas fort worth on continental
+flight_time	what is the total departure times for american flights to all airports
+flight_time	what is the departure time your during the week flight from kansas city to detroit on monday
+flight_time	what is the times of flight does the flight leave milwaukee to dallas on january six
+flight_time	what is the total time for northwest flights to all airports
+flight_time	what is the total flight times for continental airlines flights to all airports
+flight_time	i would like the times of your flights the afternoon on american for september six from burbank going to philly on continental
+flight_time	what flight schedule for flights from new york city and ontario on thursday
+flight_time	what is the total flight times for american flights to all airports
+flight_time	what is the schedule for flights between charlotte to indianapolis on january seventeenth
+flight_time	show me times of flight of the f28 from new york going to atlanta on northwest
+flight_time	please give me the flight times from westchester and tacoma on august six
+flight_time	i would like the times of your flights your red eye flight from miami to new york city on delta
+flight_time	i would like the flight schedule the afternoon on delta airlines for may fifteenth from westchester and montreal on june sixteenth
+flight_time	what times of flight of all flights from cincinnati and san francisco on the night of march twenty ninth
+flight_time	what is the total flight times for delta airlines flights to all airports
+flight_time	what flight schedule are the flights leaving from orlando and vegas on friday
+flight_time	what is the total schedule for flights for eastern flights to all airports
+flight_time	what is the total times of flight for canadian airlines international flights to all airports
+flight_time	show me flight times your during the week flight from atlanta to la on saturday
+flight_time	what is the total schedule for flights for northwest airline flights to all airports
+flight_time	what is the total schedule for canadian airlines international flights to all airports
+flight_time	what is the total time for delta airlines flights to all airports
+flight_time	i would like the flight times your cheap flight from san francisco going to san francisco on tuesday
+flight_time	what is the total flight schedule for tower air flights to all airports
+flight_time	what is the total departure time for northwest airlines flights to all airports
+flight_time	what is the total times of flight for tower air flights to all airports
+flight_time	what is the total flight times for eastern airlines flights to all airports
+flight_time	what flight times of the 767 from new york city to st. louis on august nineteenth
+flight_time	what is the total schedule for flights for continental flights to all airports
+flight_time	what is the departure time your cheap flight from memphis going to las vegas on december fifteen
+flight_time	what is the total times of your flights for southwest airlines flights to all airports
+flight_time	what times of flight of the f28 from pittsburgh to st. louis on northwest airline
+flight_time	i would like the times of all flights from san jose to philly on wednesday
+flight_time	what is the total departure times for american airlines flights to all airports
+flight_time	what is the total times of your flights for delta 's flights to all airports
+flight_time	what is the total times for northwest airlines flights to all airports
+flight_time	what is the total times of your flights for united airlines flights to all airports
+flight_time	what is the total times of your flights for canadian airlines international flights to all airports
+flight_time	what is the total schedule for flights for continental airlines flights to all airports
+flight_time	what is the schedule for flights of all flights from nashville to ontario on the nighttime of september sixteenth
+flight_time	what is the total times of flight for american airlines flights to all airports
+flight_time	what is the total time for northwest flights to all airports
+flight_time	what is the total schedule for continental flights to all airports
+flight_time	what is the total times for tower air flights to all airports
+flight_time	i would like the flight times does the flight leave oakland to indianapolis on united airlines
+flight_time	what flight schedule between san francisco to dallas on united
+flight_time	i would like the schedule does the flight leave dallas fort worth to cleveland on friday 's
+flight_time	what is the total schedule for flights for northwest flights to all airports
+flight_time	what times of all flights from dallas fort worth to san francisco on continental airlines
+flight_time	what schedule for flights your early flight from indianapolis to tacoma on the morning of may nineteenth
+flight_time	what is the total times of your flights for northwest flights to all airports
+flight_time	what is the total times for us air flights to all airports
+flight_time	what schedule does the flight leave nashville to salt lake city on delta
+flight_time	what is the total times of your flights for nationair flights to all airports
+flight_time	i would like the times of flight for flights from atlanta to vegas on the evening of june fifteenth
+flight_time	i would like the flight schedule your during the week flight from st. paul to st. petersburg on the early of january eight
+flight_time	what is the total flight schedule for continental airlines flights to all airports
+flight_time	what is the total departure time for american flights to all airports
+flight_time	what time of the f28 from orlando and san diego on sunday
+flight_time	what departure time does the flight leave miami to san francisco on northwest airlines
+flight_time	what is the total departure time for midwest flights to all airports
+flight_time	what flight schedule of the 767 from detroit to philly on united
+flight_time	what is the total departure time for continental airlines flights to all airports
+flight_time	please give me the schedule for flights from montreal and san jose on saturdays
+flight_time	i would like the schedule for flights between san francisco to salt lake city on the afternoon of december seventeenth
+flight_time	what times for flights from memphis to san francisco on the afternoon of october thirteenth
+flight_time	what is the total departure times for delta airline flights to all airports
+flight_time	what is the total schedule for united airlines flights to all airports
+flight_time	what is the total time for northwest airlines flights to all airports
+flight_time	what is the total flight schedule for united airlines flights to all airports
+flight_time	what is the total schedule for southwest airlines flights to all airports
+flight_time	what is the total flight times for midwest flights to all airports
+flight_time	what times of your flights your latest flight from cleveland and tampa on american airlines
+flight_time	i would like the times of your flights of the f28 from phoenix to dallas on may thirtieth
+flight_time	please give me the departure time of all flights from st. paul to dallas on the morning of august tenth
+flight_time	what is the total times of flight for midwest flights to all airports
+flight_time	what is the total departure times for american flights to all airports
+flight_time	i would like the times of flight are the flights leaving from ontario to tacoma on american
+flight_time	show me times of your flights the night on american airlines for december thirtieth from memphis and pittsburgh on the morning of january fourteenth
+flight_time	what is the total schedule for continental flights to all airports

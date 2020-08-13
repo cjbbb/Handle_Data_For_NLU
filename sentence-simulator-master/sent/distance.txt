@@ -1,0 +1,100 @@
+distance	how far is downtown from the airport in toronto
+distance	how far is the airport from downtown seattle
+distance	how far is the airport from downtown baltimore
+distance	how far is downtown from the airport in city of boston
+distance	how long does it take to get from philly to new york
+distance	how long does it take to get from houston to westchester county
+distance	how far is the airport from downtown denver
+distance	how long does it take to get from baltimore airport into the city of westchester
+distance	how long does it take to get from cincinnati to san diego
+distance	how long does it take to get from vegas to st. paul
+distance	how long does it take to get from westchester county to san francisco
+distance	how long does it take to get from boston airport into the city of philadelphia
+distance	how far is the airport from downtown st. paul
+distance	how long does it take to get from miami to washington
+distance	how long does it take to get from dallas fort worth to vegas
+distance	how long does it take to get from kansas city to orlando
+distance	how long does it take to get from westchester to la
+distance	how long does it take to get from denver to indianapolis
+distance	how long does it take to get from la to seattle
+distance	how far is the airport from downtown columbus
+distance	how long does it take to get from lester pearson airport into the city of miami
+distance	how long does it take to get from newark to st. louis
+distance	how long does it take to get from memphis to st. louis
+distance	how long does it take to get from san jose to oakland
+distance	how far is the airport from downtown washington
+distance	how long does it take to get from columbus to burbank
+distance	how long does it take to get from phoenix airport into the city of detroit
+distance	how long does it take to get from general mitchell international into the city of nashville
+distance	how far is the airport from downtown pittsburgh
+distance	how far is the airport from downtown san diego
+distance	how long does it take to get from toronto to westchester
+distance	how long does it take to get from westchester county to detroit
+distance	how long does it take to get from fort worth to detroit
+distance	how long does it take to get from newark to salt lake city
+distance	how long does it take to get from charlotte to las vegas
+distance	how long does it take to get from dallas fort worth to dallas
+distance	how far is downtown from the airport in cleveland
+distance	how far is the airport from downtown toronto
+distance	how far is downtown from the airport in seattle
+distance	how long does it take to get from pittsburgh airport into the city of columbus
+distance	how long does it take to get from pittsburgh airport into the city of long beach
+distance	how far is the airport from downtown kansas city
+distance	how far is the airport from downtown city of boston
+distance	how long does it take to get from love field into the city of ontario
+distance	how long does it take to get from kansas city to nashville
+distance	how far is downtown from the airport in cleveland
+distance	how long does it take to get from logan airport into the city of denver
+distance	how far is the airport from downtown nashville
+distance	how long does it take to get from cleveland to fort worth
+distance	how long does it take to get from denver to westchester county
+distance	how long does it take to get from new york city to atlanta
+distance	how far is the airport from downtown tampa
+distance	how long does it take to get from kansas city to city of boston
+distance	how long does it take to get from phoenix to seattle
+distance	how long does it take to get from dallas fort worth to pittsburgh
+distance	how long does it take to get from seattle to denver
+distance	how long does it take to get from cleveland to st. petersburg
+distance	how far is downtown from the airport in dallas
+distance	how long does it take to get from cincinnati to detroit
+distance	how long does it take to get from dulles into the city of ontario
+distance	how far is downtown from the airport in chicago
+distance	how far is the airport from downtown st. petersburg
+distance	how long does it take to get from phoenix airport into the city of phoenix
+distance	how long does it take to get from phoenix airport into the city of seattle
+distance	how long does it take to get from salt lake city to city of boston
+distance	how long does it take to get from detroit to kansas city
+distance	how long does it take to get from minneapolis to pittsburgh
+distance	how long does it take to get from dulles into the city of boston
+distance	how long does it take to get from baltimore airport into the city of cincinnati
+distance	how long does it take to get from love field into the city of san jose
+distance	how long does it take to get from kansas city to pittsburgh
+distance	how long does it take to get from atlanta to st. petersburg
+distance	how long does it take to get from dulles into the city of pittsburgh
+distance	how long does it take to get from burbank to tacoma
+distance	how long does it take to get from philadelphia airport into the city of kansas city
+distance	how long does it take to get from chicago to orlando
+distance	how long does it take to get from phoenix airport into the city of vegas
+distance	how long does it take to get from burbank to milwaukee
+distance	how far is the airport from downtown cleveland
+distance	how long does it take to get from pittsburgh airport into the city of chicago
+distance	how far is downtown from the airport in philly
+distance	how long does it take to get from vegas to atlanta
+distance	how far is the airport from downtown columbus
+distance	how far is the airport from downtown cincinnati
+distance	how long does it take to get from love field into the city of denver
+distance	how far is downtown from the airport in indianapolis
+distance	how long does it take to get from minneapolis to baltimore
+distance	how far is the airport from downtown minneapolis
+distance	how long does it take to get from city of boston to st. petersburg
+distance	how long does it take to get from los angeles to nashville
+distance	how long does it take to get from burbank to miami
+distance	how long does it take to get from baltimore to kansas city
+distance	how long does it take to get from dallas airport into the city of st. petersburg
+distance	how far is the airport from downtown las vegas
+distance	how long does it take to get from kansas city to newark
+distance	how long does it take to get from lester pearson airport into the city of burbank
+distance	how long does it take to get from dulles into the city of westchester county
+distance	how far is downtown from the airport in charlotte
+distance	how long does it take to get from baltimore to dallas fort worth
+distance	how long does it take to get from philly to new york city

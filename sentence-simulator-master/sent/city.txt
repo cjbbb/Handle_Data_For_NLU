@@ -1,0 +1,100 @@
+city	where is logan airport what cities are served by delta 's
+city	where is phoenix airport what cities are served by us air
+city	where is lester pearson airport located what cities are served by midwest
+city	where is boston airport located what cities are served by continental airlines
+city	where is love field located what cities are served by eastern airlines
+city	where is dallas airport located what cities are served by american
+city	where is general mitchell international located what cities are served by northwest
+city	where is general mitchell international located what cities are served by continental airlines
+city	where is lester pearson airport located what cities are served by united airlines
+city	where is love field located what cities are served by northwest airlines
+city	where is baltimore airport what cities are served by continental airlines
+city	where is love field located what cities are served by united airlines
+city	where is logan what cities are served by tower air
+city	where is love field located what cities are served by eastern
+city	where is logan airport what cities are served by continental airlines
+city	where is baltimore airport what cities are served by nationair
+city	where is logan airport located what cities are served by nationair
+city	where is logan what cities are served by continental airlines
+city	where is general mitchell international what cities are served by delta
+city	where is dallas airport located what cities are served by northwest airlines
+city	where is pittsburgh airport located what cities are served by nationair
+city	where is philadelphia airport what cities are served by american
+city	where is lester pearson airport what cities are served by american airline
+city	where is love field located what cities are served by nationair
+city	where is pittsburgh airport located what cities are served by delta airlines
+city	where is love field what cities are served by eastern airlines
+city	where is phoenix airport what cities are served by united airlines
+city	where is philadelphia airport what cities are served by northwest
+city	where is lester pearson airport located what cities are served by tower air
+city	where is boston airport what cities are served by southwest airlines
+city	where is logan what cities are served by northwest
+city	where is san francisco airport what cities are served by american airline
+city	where is baltimore airport what cities are served by delta airline
+city	where is baltimore airport what cities are served by midwest
+city	where is boston airport located what cities are served by delta airlines
+city	where is pittsburgh airport located what cities are served by northwest airline
+city	where is pittsburgh airport what cities are served by continental
+city	where is dallas airport what cities are served by united airlines
+city	where is logan airport located what cities are served by american airlines
+city	where is love field located what cities are served by nationair
+city	where is philadelphia airport located what cities are served by eastern airlines
+city	where is boston airport what cities are served by delta 's
+city	where is logan what cities are served by delta airline
+city	where is baltimore airport located what cities are served by eastern
+city	where is philadelphia airport what cities are served by delta airlines
+city	where is atlanta airport what cities are served by continental
+city	where is lester pearson airport what cities are served by tower air
+city	where is love field what cities are served by united
+city	where is philadelphia airport located what cities are served by delta airline
+city	where is logan airport what cities are served by canadian airlines international
+city	where is logan airport located what cities are served by delta
+city	where is baltimore airport located what cities are served by continental
+city	where is san francisco airport located what cities are served by delta 's
+city	where is baltimore airport located what cities are served by canadian airlines international
+city	where is atlanta airport located what cities are served by southwest airlines
+city	where is philadelphia airport located what cities are served by eastern
+city	where is boston airport what cities are served by eastern
+city	where is dallas airport what cities are served by united
+city	where is san francisco airport located what cities are served by united
+city	where is dulles located what cities are served by northwest airlines
+city	where is general mitchell international what cities are served by american
+city	where is love field what cities are served by delta airline
+city	where is san francisco airport located what cities are served by american airlines
+city	where is phoenix airport what cities are served by northwest airline
+city	where is dulles what cities are served by us air
+city	where is general mitchell international located what cities are served by united airlines
+city	where is dallas airport what cities are served by tower air
+city	where is philadelphia airport located what cities are served by delta airlines
+city	where is phoenix airport what cities are served by eastern airlines
+city	where is atlanta airport located what cities are served by us air
+city	where is atlanta airport what cities are served by american airline
+city	where is phoenix airport what cities are served by delta airlines
+city	where is baltimore airport located what cities are served by continental
+city	where is dulles located what cities are served by delta airline
+city	where is logan located what cities are served by united airlines
+city	where is boston airport located what cities are served by delta
+city	where is love field located what cities are served by eastern airlines
+city	where is baltimore airport located what cities are served by northwest airlines
+city	where is philadelphia airport located what cities are served by united airlines
+city	where is dulles located what cities are served by southwest airlines
+city	where is philadelphia airport what cities are served by us air
+city	where is atlanta airport what cities are served by northwest airline
+city	where is phoenix airport located what cities are served by american
+city	where is lester pearson airport located what cities are served by delta
+city	where is phoenix airport located what cities are served by continental
+city	where is logan airport located what cities are served by american airline
+city	where is dulles what cities are served by canadian airlines international
+city	where is boston airport located what cities are served by united
+city	where is pittsburgh airport what cities are served by continental
+city	where is phoenix airport what cities are served by united airlines
+city	where is philadelphia airport what cities are served by canadian airlines international
+city	where is dallas airport located what cities are served by southwest airlines
+city	where is dallas airport what cities are served by delta
+city	where is love field located what cities are served by american airlines
+city	where is philadelphia airport what cities are served by delta airline
+city	where is baltimore airport what cities are served by nationair
+city	where is general mitchell international located what cities are served by american airlines
+city	where is phoenix airport what cities are served by midwest
+city	where is logan located what cities are served by nationair
+city	where is phoenix airport located what cities are served by delta airlines

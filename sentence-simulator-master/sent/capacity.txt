@@ -1,0 +1,100 @@
+capacity	what are the seating capacities of planes between st. paul and las vegas
+capacity	what are the seating capacities of planes between philly and cleveland
+capacity	what is the seating capacity for the f28
+capacity	what is the seating capacity of a boeing 767
+capacity	what are the seating capacities of planes between newark and oakland
+capacity	what are the seating capacities of planes between oakland and phoenix
+capacity	what are the seating capacities of planes between cleveland and memphis
+capacity	what are the seating capacities of planes between new york and san diego
+capacity	what is the seating capacity for the f28
+capacity	what is the seating capacity for the 767
+capacity	what are the seating capacities of planes between denver and san francisco
+capacity	what is the seating capacity of a boeing 767
+capacity	what is the seating capacity for the 767
+capacity	what is the seating capacity of a boeing 767
+capacity	what are the seating capacities of planes between denver and ontario
+capacity	what is the seating capacity of a boeing f28
+capacity	what is the seating capacity for the f28
+capacity	what is the seating capacity of a boeing f28
+capacity	what is the seating capacity of a boeing f28
+capacity	what is the seating capacity of a boeing f28
+capacity	what are the seating capacities of planes between boston and milwaukee
+capacity	what are the seating capacities of planes between charlotte and milwaukee
+capacity	what is the seating capacity of a boeing f28
+capacity	what is the seating capacity for the 767
+capacity	what is the seating capacity of a boeing f28
+capacity	what are the seating capacities of planes between vegas and columbus
+capacity	what is the seating capacity of a boeing f28
+capacity	what is the seating capacity of a boeing f28
+capacity	what is the seating capacity for the f28
+capacity	what are the seating capacities of planes between milwaukee and denver
+capacity	what is the seating capacity for the 767
+capacity	what is the seating capacity of a boeing f28
+capacity	what is the seating capacity for the 767
+capacity	what are the seating capacities of planes between st. louis and atlanta
+capacity	what are the seating capacities of planes between salt lake city and cincinnati
+capacity	what are the seating capacities of planes between atlanta and san jose
+capacity	what is the seating capacity of a boeing 767
+capacity	what is the seating capacity of a boeing 767
+capacity	what is the seating capacity of a boeing 767
+capacity	what is the seating capacity for the f28
+capacity	what are the seating capacities of planes between kansas city and new york city
+capacity	what are the seating capacities of planes between denver and westchester
+capacity	what are the seating capacities of planes between boston and toronto
+capacity	what are the seating capacities of planes between washington and atlanta
+capacity	what is the seating capacity of a boeing f28
+capacity	what are the seating capacities of planes between toronto and san jose
+capacity	what are the seating capacities of planes between westchester county and long beach
+capacity	what are the seating capacities of planes between phoenix and boston
+capacity	what are the seating capacities of planes between dallas and city of boston
+capacity	what are the seating capacities of planes between phoenix and atlanta
+capacity	what are the seating capacities of planes between miami and nashville
+capacity	what are the seating capacities of planes between dallas and columbus
+capacity	what are the seating capacities of planes between minneapolis and orlando
+capacity	what are the seating capacities of planes between nashville and detroit
+capacity	what are the seating capacities of planes between st. petersburg and montreal
+capacity	what is the seating capacity for the 767
+capacity	what are the seating capacities of planes between atlanta and kansas city
+capacity	what is the seating capacity of a boeing 767
+capacity	what is the seating capacity for the 767
+capacity	what are the seating capacities of planes between la and philadelphia
+capacity	what are the seating capacities of planes between salt lake city and chicago
+capacity	what are the seating capacities of planes between minneapolis and detroit
+capacity	what is the seating capacity for the 767
+capacity	what are the seating capacities of planes between dallas fort worth and minneapolis
+capacity	what is the seating capacity for the 767
+capacity	what is the seating capacity for the f28
+capacity	what is the seating capacity for the f28
+capacity	what are the seating capacities of planes between montreal and baltimore
+capacity	what is the seating capacity for the 767
+capacity	what are the seating capacities of planes between pittsburgh and long beach
+capacity	what is the seating capacity for the 767
+capacity	what are the seating capacities of planes between denver and charlotte
+capacity	what are the seating capacities of planes between kansas city and san diego
+capacity	what is the seating capacity for the f28
+capacity	what are the seating capacities of planes between dallas and westchester
+capacity	what is the seating capacity for the 767
+capacity	what are the seating capacities of planes between salt lake city and kansas city
+capacity	what is the seating capacity of a boeing 767
+capacity	what is the seating capacity for the f28
+capacity	what are the seating capacities of planes between miami and philadelphia
+capacity	what is the seating capacity of a boeing f28
+capacity	what is the seating capacity of a boeing f28
+capacity	what is the seating capacity for the f28
+capacity	what is the seating capacity for the 767
+capacity	what is the seating capacity for the 767
+capacity	what are the seating capacities of planes between miami and seattle
+capacity	what is the seating capacity for the f28
+capacity	what is the seating capacity of a boeing 767
+capacity	what is the seating capacity of a boeing 767
+capacity	what are the seating capacities of planes between chicago and dallas fort worth
+capacity	what is the seating capacity of a boeing 767
+capacity	what is the seating capacity of a boeing f28
+capacity	what are the seating capacities of planes between philly and seattle
+capacity	what is the seating capacity of a boeing 767
+capacity	what is the seating capacity for the 767
+capacity	what is the seating capacity of a boeing 767
+capacity	what is the seating capacity for the f28
+capacity	what is the seating capacity of a boeing 767
+capacity	what are the seating capacities of planes between indianapolis and cleveland
+capacity	what are the seating capacities of planes between baltimore and oakland

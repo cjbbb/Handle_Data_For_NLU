@@ -1,0 +1,100 @@
+ground_fare	what price is a limousine service in las vegas and downtown
+ground_fare	what are the limousines rates in dallas and downtown
+ground_fare	how much is the ground transportation between philly and downtown
+ground_fare	what are the limousine rates in washington and downtown
+ground_fare	what price is a taxi service in atlanta and downtown
+ground_fare	what price is a limousine rates in new york and downtown
+ground_fare	what are the limousine rates in la and downtown
+ground_fare	how much is the ground transportation between toronto and downtown
+ground_fare	how much is the ground transportation between st. petersburg and downtown
+ground_fare	what are the taxi rates in san jose and downtown
+ground_fare	what are the limousine rates in salt lake city and downtown
+ground_fare	how much is the ground transportation between pittsburgh and downtown
+ground_fare	how much is the ground transportation between detroit and downtown
+ground_fare	how much is the ground transportation between la and downtown
+ground_fare	what price is a rental car rates in phoenix and downtown
+ground_fare	how much is the ground transportation between denver and downtown
+ground_fare	how much is the ground transportation between dallas fort worth and downtown
+ground_fare	what are the rental car service in newark and downtown
+ground_fare	what price is a taxi service in san diego and downtown
+ground_fare	how much is the ground transportation between phoenix and downtown
+ground_fare	how much is the ground transportation between st. louis and downtown
+ground_fare	what are the limousines service in nashville and downtown
+ground_fare	how much is the ground transportation between pittsburgh and downtown
+ground_fare	how much is the ground transportation between baltimore and downtown
+ground_fare	what price is a limousines service in minneapolis and downtown
+ground_fare	what price is a limousine rates in fort worth and downtown
+ground_fare	what are the rental car rates in los angeles and downtown
+ground_fare	what price is a limousines rates in newark and downtown
+ground_fare	how much is the ground transportation between ontario and downtown
+ground_fare	what price is a taxi rates in washington and downtown
+ground_fare	what price is a taxi rates in new york and downtown
+ground_fare	what price is a limousine service in toronto and downtown
+ground_fare	what price is a limousines rates in miami and downtown
+ground_fare	what price is a limousines service in detroit and downtown
+ground_fare	how much is the ground transportation between vegas and downtown
+ground_fare	how much is the ground transportation between st. paul and downtown
+ground_fare	how much is the ground transportation between orlando and downtown
+ground_fare	what price is a limousine rates in seattle and downtown
+ground_fare	what are the limousine service in vegas and downtown
+ground_fare	how much is the ground transportation between philly and downtown
+ground_fare	what price is a taxi rates in long beach and downtown
+ground_fare	what are the taxi service in nashville and downtown
+ground_fare	what are the limousine rates in westchester county and downtown
+ground_fare	what price is a limousines rates in montreal and downtown
+ground_fare	what price is a limousine rates in charlotte and downtown
+ground_fare	how much is the ground transportation between minneapolis and downtown
+ground_fare	what are the limousines service in pittsburgh and downtown
+ground_fare	how much is the ground transportation between ontario and downtown
+ground_fare	how much is the ground transportation between washington and downtown
+ground_fare	what are the limousines rates in columbus and downtown
+ground_fare	what price is a limousine service in atlanta and downtown
+ground_fare	how much is the ground transportation between san diego and downtown
+ground_fare	how much is the ground transportation between vegas and downtown
+ground_fare	how much is the ground transportation between phoenix and downtown
+ground_fare	how much is the ground transportation between atlanta and downtown
+ground_fare	how much is the ground transportation between vegas and downtown
+ground_fare	what are the taxi service in san jose and downtown
+ground_fare	how much is the ground transportation between minneapolis and downtown
+ground_fare	what price is a rental car service in phoenix and downtown
+ground_fare	how much is the ground transportation between nashville and downtown
+ground_fare	what price is a taxi service in miami and downtown
+ground_fare	how much is the ground transportation between newark and downtown
+ground_fare	what are the rental car service in philly and downtown
+ground_fare	how much is the ground transportation between milwaukee and downtown
+ground_fare	what price is a limousine rates in columbus and downtown
+ground_fare	what are the limousines rates in vegas and downtown
+ground_fare	what price is a taxi service in philly and downtown
+ground_fare	what are the rental car rates in st. paul and downtown
+ground_fare	how much is the ground transportation between ontario and downtown
+ground_fare	what are the rental car rates in toronto and downtown
+ground_fare	what are the taxi service in boston and downtown
+ground_fare	what are the rental car service in new york and downtown
+ground_fare	how much is the ground transportation between san diego and downtown
+ground_fare	how much is the ground transportation between baltimore and downtown
+ground_fare	what price is a limousines service in salt lake city and downtown
+ground_fare	what are the limousine service in vegas and downtown
+ground_fare	how much is the ground transportation between memphis and downtown
+ground_fare	how much is the ground transportation between milwaukee and downtown
+ground_fare	what price is a limousine rates in minneapolis and downtown
+ground_fare	what are the rental car rates in detroit and downtown
+ground_fare	what are the limousines service in dallas fort worth and downtown
+ground_fare	what price is a rental car rates in minneapolis and downtown
+ground_fare	what are the limousine rates in milwaukee and downtown
+ground_fare	how much is the ground transportation between washington and downtown
+ground_fare	what price is a limousines service in las vegas and downtown
+ground_fare	what are the rental car rates in st. petersburg and downtown
+ground_fare	what price is a limousines service in san jose and downtown
+ground_fare	how much is the ground transportation between toronto and downtown
+ground_fare	how much is the ground transportation between minneapolis and downtown
+ground_fare	what are the rental car rates in oakland and downtown
+ground_fare	how much is the ground transportation between charlotte and downtown
+ground_fare	how much is the ground transportation between long beach and downtown
+ground_fare	what are the limousine rates in las vegas and downtown
+ground_fare	what are the limousines service in ontario and downtown
+ground_fare	how much is the ground transportation between dallas and downtown
+ground_fare	what price is a limousine rates in vegas and downtown
+ground_fare	how much is the ground transportation between nashville and downtown
+ground_fare	what are the taxi rates in miami and downtown
+ground_fare	what price is a rental car rates in dallas fort worth and downtown
+ground_fare	how much is the ground transportation between long beach and downtown

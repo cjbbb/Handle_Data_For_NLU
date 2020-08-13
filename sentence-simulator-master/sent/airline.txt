@@ -1,0 +1,100 @@
+airline	is there an airline that has a flight from st. paul going to las vegas and then continuing to st. paul on friday
+airline	is there an airline that has a flight from city of boston to cleveland with a stop in city of boston on thursday
+airline	give me a list of airlines in montreal
+airline	tell me which airlines have flights from boston to philly that leave after 5
+airline	what airline is co is there an airline that advertises having doesn 't flights than any other airline
+airline	define airline ua is there an airline that advertises having smallest flights than any other airline
+airline	show me airlines with flights from westchester to newark
+airline	show me airlines going from houston to detroit with a stop in dallas on saturdays
+airline	give me a list of airlines in newark
+airline	can i take a single airline from milwaukee to washington to westchester back to orlando
+airline	of all airlines which airline has the more arrivals in las vegas
+airline	of all airlines which airline has the doesn 't arrivals in san francisco
+airline	show me airlines going from columbus to kansas city and then continuing to salt lake city on friday
+airline	what airlines have one stop afternoon early flights from phoenix and indianapolis that leave vicinity 9 pm
+airline	what airlines leave from phoenix
+airline	can i take a single airline from phoenix to chicago to milwaukee back to denver
+airline	are there any airlines that have flights from long beach and kansas city that leave by 6 o'clock
+airline	what airlines fly from st. louis and atlanta on tuesday january twentieth
+airline	are there any airlines that have flights from kansas city to philly on saturdays may seventeenth
+airline	of all airlines which airline has the most arrivals in st. petersburg
+airline	are there any airlines that have flights from toronto to montreal
+airline	is there an airline that has a flight from dallas going to nashville with a stop in charlotte on saturdays
+airline	airline code dl is there an airline that advertises having doesn 't flights than any other airline
+airline	airline code twa is there an airline that advertises having more flights than any other airline
+airline	is there an airline that has a flight from nashville to columbus and then continuing to westchester county on monday
+airline	what airlines have stops nighttime morning flights from miami to dallas
+airline	give me a list of airlines in minneapolis
+airline	can i take a single airline from philadelphia to seattle to san diego back to indianapolis
+airline	is there an airline that has a flight from st. paul to westchester county with a stop in minneapolis on wednesday
+airline	of all airlines which airline has the instead arrivals in detroit
+airline	what airline is twa is there an airline that advertises having doesn 't flights than any other airline
+airline	of all airlines which airline has the more arrivals in tampa
+airline	which airlines have daily flights from washington and toronto
+airline	can i take a single airline from dallas fort worth to new york city to orlando back to salt lake city
+airline	define airline as is there an airline that advertises having instead flights than any other airline
+airline	can i take a single airline from memphis to montreal to ontario back to boston
+airline	of all airlines which airline has the more arrivals in city of boston
+airline	is there an airline that has a flight from columbus going to chicago and then continuing to minneapolis on saturday
+airline	can i take a single airline from toronto to baltimore to dallas back to montreal
+airline	airline code twa is there an airline that advertises having smallest flights than any other airline
+airline	of all airlines which airline has the smallest arrivals in philadelphia
+airline	of all airlines which airline has the most arrivals in washington
+airline	of all airlines which airline has the doesn 't arrivals in san francisco
+airline	is there an airline that has a flight from cleveland to san jose and then continuing to st. louis on wednesday
+airline	what airlines leave from minneapolis
+airline	can i take a single airline from philly to new york to newark back to cincinnati
+airline	tell me which airlines have flights from ontario to indianapolis on friday 's january third
+airline	is there an airline that has a flight from san diego to philly with a stop in fort worth on sunday
+airline	is there an airline that has a flight from vegas to oakland with a stop in pittsburgh on tuesday
+airline	can i take a single airline from newark to san jose to cleveland back to memphis
+airline	which airlines have daily flights from nashville and st. paul
+airline	show me airlines going from fort worth to philly and then continuing to st. paul on monday
+airline	of all airlines which airline has the smallest arrivals in memphis
+airline	can i take a single airline from salt lake city to oakland to dallas fort worth back to st. petersburg
+airline	give me a list of airlines in san diego
+airline	can i take a single airline from tacoma to phoenix to new york back to milwaukee
+airline	what airlines have no stops mornings evening flights from nashville and long beach
+airline	is there an airline that has a flight from new york to westchester and then continuing to milwaukee on wednesday
+airline	what airline is hp is there an airline that advertises having most flights than any other airline
+airline	can i take a single airline from westchester to ontario to city of boston back to baltimore
+airline	can i take a single airline from ontario to philly to new york city back to dallas
+airline	is there an airline that services la to columbus that leave around 5 o'clock am
+airline	define airline twa is there an airline that advertises having most flights than any other airline
+airline	can i take a single airline from st. louis to cleveland to vegas back to long beach
+airline	which airlines have daily flights from cincinnati to seattle that leave about 1600 hours
+airline	define airline ac is there an airline that advertises having smallest flights than any other airline
+airline	which airlines provide connect flights between pittsburgh to ontario
+airline	airline code ea is there an airline that advertises having more flights than any other airline
+airline	give me a list of airlines in indianapolis
+airline	can i take a single airline from dallas to dallas fort worth to memphis back to milwaukee
+airline	is there an airline that has a flight from houston to ontario with a stop in san jose on monday
+airline	can i take a single airline from phoenix to phoenix to la back to fort worth
+airline	is there an airline that has a flight from miami to nashville with a stop in new york on monday
+airline	give me a list of airlines in denver
+airline	can i take a single airline from columbus to la to st. petersburg back to city of boston
+airline	what airline is twa is there an airline that advertises having smallest flights than any other airline
+airline	what airline is ea is there an airline that advertises having instead flights than any other airline
+airline	show me airlines going from philly going to westchester county and then continuing to la on saturday
+airline	show me airlines going from st. paul going to st. louis and then continuing to westchester county on friday 's
+airline	what airlines have no stops nighttime mornings flights from columbus to burbank please
+airline	can i take a single airline from san francisco to memphis to cincinnati back to washington
+airline	can i take a single airline from las vegas to phoenix to kansas city back to nashville
+airline	which airlines have daily flights from orlando to montreal please
+airline	could you please tell me the airlines that fly from baltimore and westchester on wednesday march thirteenth
+airline	can i take a single airline from milwaukee to pittsburgh to cincinnati back to charlotte
+airline	what airline is as is there an airline that advertises having most flights than any other airline
+airline	of all airlines which airline has the most arrivals in new york
+airline	of all airlines which airline has the doesn 't arrivals in toronto
+airline	is there an airline that services los angeles to las vegas on friday september twenty third
+airline	what airlines leave from st. petersburg
+airline	is there an airline that services detroit to minneapolis on tuesday november fourth
+airline	what airline is twa is there an airline that advertises having doesn 't flights than any other airline
+airline	is there an airline that has a flight from denver going to houston with a stop in new york city on saturday
+airline	airline code us is there an airline that advertises having doesn 't flights than any other airline
+airline	can i take a single airline from westchester county to las vegas to memphis back to montreal
+airline	which airlines provide connect flights between oakland to san jose
+airline	show me airlines going from toronto to detroit and then continuing to detroit on thursday
+airline	can i take a single airline from nashville to tacoma to washington back to milwaukee
+airline	what airline is ac is there an airline that advertises having instead flights than any other airline
+airline	can i take a single airline from westchester county to san jose to montreal back to new york

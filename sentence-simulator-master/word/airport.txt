@@ -1,0 +1,580 @@
+describe	O
+logan	B-airport_name
+airport	I-airport_name
+
+show	O
+me	O
+airports	O
+in	O
+kansas	B-city_name
+city	I-city_name
+dc	B-state_code
+
+what	O
+is	O
+the	O
+name	O
+of	O
+the	O
+airport	O
+in	O
+washington	B-city_name
+dc	B-state_code
+
+describe	O
+logan	B-airport_name
+
+describe	O
+boston	B-airport_name
+airport	I-airport_name
+
+show	O
+me	O
+airports	O
+in	O
+houston	B-city_name
+dc	B-state_code
+
+describe	O
+logan	B-airport_name
+
+describe	O
+dulles	B-airport_name
+
+what	O
+is	O
+the	O
+name	O
+of	O
+the	O
+airport	O
+in	O
+memphis	B-city_name
+dc	B-state_code
+
+what	O
+is	O
+the	O
+name	O
+of	O
+the	O
+airport	O
+in	O
+burbank	B-city_name
+dc	B-state_code
+
+describe	O
+pittsburgh	B-airport_name
+airport	I-airport_name
+
+show	O
+me	O
+airports	O
+in	O
+new	B-city_name
+york	I-city_name
+city	I-city_name
+dc	B-state_code
+
+describe	O
+atlanta	B-airport_name
+airport	I-airport_name
+
+describe	O
+dulles	B-airport_name
+
+show	O
+me	O
+airports	O
+in	O
+st.	B-city_name
+louis	I-city_name
+dc	B-state_code
+
+show	O
+me	O
+airports	O
+in	O
+dallas	B-city_name
+dc	B-state_code
+
+airports	O
+in	O
+cleveland	B-city_name
+dc	B-state_code
+
+describe	O
+logan	B-airport_name
+airport	I-airport_name
+
+show	O
+me	O
+airports	O
+in	O
+vegas	B-city_name
+dc	B-state_code
+
+what	O
+is	O
+the	O
+name	O
+of	O
+the	O
+airport	O
+in	O
+la	B-city_name
+dc	B-state_code
+
+what	O
+is	O
+the	O
+name	O
+of	O
+the	O
+airport	O
+in	O
+indianapolis	B-city_name
+dc	B-state_code
+
+airports	O
+in	O
+burbank	B-city_name
+dc	B-state_code
+
+describe	O
+boston	B-airport_name
+airport	I-airport_name
+
+airports	O
+in	O
+vegas	B-city_name
+dc	B-state_code
+
+describe	O
+dulles	B-airport_name
+
+what	O
+is	O
+the	O
+name	O
+of	O
+the	O
+airport	O
+in	O
+charlotte	B-city_name
+dc	B-state_code
+
+describe	O
+san	B-airport_name
+francisco	I-airport_name
+airport	I-airport_name
+
+airports	O
+in	O
+vegas	B-city_name
+dc	B-state_code
+
+airports	O
+in	O
+san	B-city_name
+diego	I-city_name
+dc	B-state_code
+
+show	O
+me	O
+airports	O
+in	O
+nashville	B-city_name
+dc	B-state_code
+
+describe	O
+dulles	B-airport_name
+
+describe	O
+phoenix	B-airport_name
+airport	I-airport_name
+
+what	O
+is	O
+the	O
+name	O
+of	O
+the	O
+airport	O
+in	O
+atlanta	B-city_name
+dc	B-state_code
+
+airports	O
+in	O
+la	B-city_name
+dc	B-state_code
+
+what	O
+is	O
+the	O
+name	O
+of	O
+the	O
+airport	O
+in	O
+philly	B-city_name
+dc	B-state_code
+
+describe	O
+love	B-airport_name
+field	I-airport_name
+
+describe	O
+general	B-airport_name
+mitchell	I-airport_name
+international	I-airport_name
+
+describe	O
+baltimore	B-airport_name
+airport	I-airport_name
+
+describe	O
+phoenix	B-airport_name
+airport	I-airport_name
+
+show	O
+me	O
+airports	O
+in	O
+westchester	B-city_name
+dc	B-state_code
+
+airports	O
+in	O
+nashville	B-city_name
+dc	B-state_code
+
+show	O
+me	O
+airports	O
+in	O
+denver	B-city_name
+dc	B-state_code
+
+describe	O
+logan	B-airport_name
+airport	I-airport_name
+
+airports	O
+in	O
+san	B-city_name
+francisco	I-city_name
+dc	B-state_code
+
+airports	O
+in	O
+columbus	B-city_name
+dc	B-state_code
+
+describe	O
+atlanta	B-airport_name
+airport	I-airport_name
+
+describe	O
+boston	B-airport_name
+airport	I-airport_name
+
+what	O
+is	O
+the	O
+name	O
+of	O
+the	O
+airport	O
+in	O
+dallas	B-city_name
+dc	B-state_code
+
+show	O
+me	O
+airports	O
+in	O
+miami	B-city_name
+dc	B-state_code
+
+show	O
+me	O
+airports	O
+in	O
+baltimore	B-city_name
+dc	B-state_code
+
+describe	O
+phoenix	B-airport_name
+airport	I-airport_name
+
+describe	O
+pittsburgh	B-airport_name
+airport	I-airport_name
+
+describe	O
+logan	B-airport_name
+
+describe	O
+logan	B-airport_name
+airport	I-airport_name
+
+show	O
+me	O
+airports	O
+in	O
+st.	B-city_name
+paul	I-city_name
+dc	B-state_code
+
+what	O
+is	O
+the	O
+name	O
+of	O
+the	O
+airport	O
+in	O
+boston	B-city_name
+dc	B-state_code
+
+describe	O
+dulles	B-airport_name
+
+describe	O
+love	B-airport_name
+field	I-airport_name
+
+airports	O
+in	O
+westchester	B-city_name
+county	I-city_name
+dc	B-state_code
+
+describe	O
+love	B-airport_name
+field	I-airport_name
+
+describe	O
+logan	B-airport_name
+
+describe	O
+dallas	B-airport_name
+airport	I-airport_name
+
+describe	O
+phoenix	B-airport_name
+airport	I-airport_name
+
+describe	O
+baltimore	B-airport_name
+airport	I-airport_name
+
+show	O
+me	O
+airports	O
+in	O
+new	B-city_name
+york	I-city_name
+city	I-city_name
+dc	B-state_code
+
+describe	O
+lester	B-airport_name
+pearson	I-airport_name
+airport	I-airport_name
+
+describe	O
+dallas	B-airport_name
+airport	I-airport_name
+
+airports	O
+in	O
+phoenix	B-city_name
+dc	B-state_code
+
+airports	O
+in	O
+boston	B-city_name
+dc	B-state_code
+
+show	O
+me	O
+airports	O
+in	O
+pittsburgh	B-city_name
+dc	B-state_code
+
+describe	O
+atlanta	B-airport_name
+airport	I-airport_name
+
+what	O
+is	O
+the	O
+name	O
+of	O
+the	O
+airport	O
+in	O
+washington	B-city_name
+dc	B-state_code
+
+describe	O
+love	B-airport_name
+field	I-airport_name
+
+show	O
+me	O
+airports	O
+in	O
+kansas	B-city_name
+city	I-city_name
+dc	B-state_code
+
+describe	O
+dallas	B-airport_name
+airport	I-airport_name
+
+describe	O
+baltimore	B-airport_name
+airport	I-airport_name
+
+show	O
+me	O
+airports	O
+in	O
+newark	B-city_name
+dc	B-state_code
+
+describe	O
+san	B-airport_name
+francisco	I-airport_name
+airport	I-airport_name
+
+describe	O
+general	B-airport_name
+mitchell	I-airport_name
+international	I-airport_name
+
+what	O
+is	O
+the	O
+name	O
+of	O
+the	O
+airport	O
+in	O
+philadelphia	B-city_name
+dc	B-state_code
+
+show	O
+me	O
+airports	O
+in	O
+detroit	B-city_name
+dc	B-state_code
+
+describe	O
+boston	B-airport_name
+airport	I-airport_name
+
+show	O
+me	O
+airports	O
+in	O
+washington	B-city_name
+dc	B-state_code
+
+describe	O
+pittsburgh	B-airport_name
+airport	I-airport_name
+
+show	O
+me	O
+airports	O
+in	O
+kansas	B-city_name
+city	I-city_name
+dc	B-state_code
+
+describe	O
+philadelphia	B-airport_name
+airport	I-airport_name
+
+describe	O
+baltimore	B-airport_name
+airport	I-airport_name
+
+describe	O
+lester	B-airport_name
+pearson	I-airport_name
+airport	I-airport_name
+
+what	O
+is	O
+the	O
+name	O
+of	O
+the	O
+airport	O
+in	O
+washington	B-city_name
+dc	B-state_code
+
+airports	O
+in	O
+vegas	B-city_name
+dc	B-state_code
+
+describe	O
+general	B-airport_name
+mitchell	I-airport_name
+international	I-airport_name
+
+describe	O
+lester	B-airport_name
+pearson	I-airport_name
+airport	I-airport_name
+
+describe	O
+philadelphia	B-airport_name
+airport	I-airport_name
+
+describe	O
+philadelphia	B-airport_name
+airport	I-airport_name
+
+airports	O
+in	O
+new	B-city_name
+york	I-city_name
+dc	B-state_code
+
+show	O
+me	O
+airports	O
+in	O
+philadelphia	B-city_name
+dc	B-state_code
+
+describe	O
+pittsburgh	B-airport_name
+airport	I-airport_name
+
+show	O
+me	O
+airports	O
+in	O
+pittsburgh	B-city_name
+dc	B-state_code
+
+describe	O
+phoenix	B-airport_name
+airport	I-airport_name
+
+describe	O
+love	B-airport_name
+field	I-airport_name
+

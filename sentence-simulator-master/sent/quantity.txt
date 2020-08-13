@@ -1,0 +1,100 @@
+quantity	how many flights go from st. paul for las vegas vicinity evening in the afternoon
+quantity	how many united flights are there to charlotte the day after tomorrow
+quantity	how many us air flights are there to columbus tomorrow
+quantity	how many cities are served by ea with business class flights how many flights does each airline have with business class service list the total number of flights to all airports by delta how many flights does delta airlines have with a class of service code qx fare
+quantity	how many cities are served by as with coach flights how many flights does each airline have with business class service list the total number of flights to all airports by canadian airlines international how many flights does northwest airlines have with a class of service code y
+quantity	list the number of flights leaving montreal for westchester county on december twenty first
+quantity	how many cities are served by ua with coach flights how many flights does each airline have with coach class service list the total number of flights to all airports by midwest how many flights does american airlines have with a class of service code h
+quantity	list the number of flights leaving detroit for los angeles on november fifteen
+quantity	how many cities are served by us with coach class flights how many flights does each airline have with coach service list the total number of flights to all airports by united how many flights does delta airlines have with a class of service code fn
+quantity	list the number of flights leaving detroit to westchester county on october twenty ninth
+quantity	how many airports does denver have
+quantity	how many cities are served by hp with business class flights how many flights does each airline have with business class service list the total number of flights to all airports by continental how many flights does northwest have with a class of service code qo
+quantity	how many first class flights does united have departing from milwaukee tomorrow
+quantity	how many flights go from toronto to atlanta later 718 am in the night
+quantity	how many airports does ontario tomorrow
+quantity	how many continental flights are there to st. paul the following day
+quantity	list the number of flights leaving st. petersburg to long beach on august thirtieth
+quantity	how many flights go from new york for st. louis on march nineteenth
+quantity	how many cities are served by co with coach class flights how many flights does each airline have with coach class service list the total number of flights to all airports by american how many flights does united have with a class of service code qo
+quantity	list the number of flights leaving los angeles to vegas about 7 am in the early
+quantity	how many southwest airlines flights are there to phoenix have
+quantity	how many cities are served by twa with coach class flights how many flights does each airline have with coach service list the total number of flights to all airports by northwest airline how many flights does southwest airlines have with a class of service code qo
+quantity	how many delta airline flights are there to dallas have
+quantity	how many airports does city of boston the following day
+quantity	how many cities are served by hp with business class flights how many flights does each airline have with business class service list the total number of flights to all airports by southwest airlines how many flights does northwest have with a class of service code qx
+quantity	how many airports does pittsburgh have
+quantity	how many flights go from charlotte for chicago by 630 am in the afternoon
+quantity	how many cities are served by ea with coach flights how many flights does each airline have with coach service list the total number of flights to all airports by delta airlines how many flights does northwest airline have with a class of service code f
+quantity	how many cities are served by co with first class flights how many flights does each airline have with coach class service list the total number of flights to all airports by united airlines how many flights does eastern airlines have with a class of service code q
+quantity	how many coach flights does delta airlines have departing from columbus tomorrow
+quantity	how many flights go from westchester county to columbus around 630 am in the nighttime
+quantity	how many cities are served by us with coach flights how many flights does each airline have with business class service list the total number of flights to all airports by northwest how many flights does northwest airline have with a class of service code y
+quantity	how many cities are served by as with coach flights how many flights does each airline have with coach class service list the total number of flights to all airports by united airlines how many flights does american airline have with a class of service code h
+quantity	how many canadian airlines international flights are there to indianapolis have
+quantity	how many cities are served by twa with coach flights how many flights does each airline have with coach class service list the total number of flights to all airports by american airline how many flights does delta airlines have with a class of service code q
+quantity	list the number of flights leaving minneapolis to miami on november thirtieth
+quantity	how many american flights are there to new york city today
+quantity	list the number of flights leaving miami for seattle on april tenth
+quantity	how many flights go from memphis for charlotte by 7 in the nighttime
+quantity	how many cities are served by dl with coach flights how many flights does each airline have with coach service list the total number of flights to all airports by canadian airlines international how many flights does southwest airlines have with a class of service code qw
+quantity	how many northwest airline flights are there to san jose tomorrow
+quantity	how many flights go from philly for st. paul on november seventeenth
+quantity	list the number of flights leaving new york city to montreal on april twenty first
+quantity	how many delta airline flights are there to detroit today
+quantity	how many cities are served by as with first class flights how many flights does each airline have with coach class service list the total number of flights to all airports by northwest how many flights does delta 's have with a class of service code qx fare
+quantity	how many coach flights does united airlines have departing from dallas fort worth the following day
+quantity	how many cities are served by hp with coach class flights how many flights does each airline have with business class service list the total number of flights to all airports by nationair how many flights does northwest have with a class of service code y
+quantity	list the number of flights leaving vegas for new york city on april ninth
+quantity	how many cities are served by twa with coach class flights how many flights does each airline have with coach service list the total number of flights to all airports by tower air how many flights does united airlines have with a class of service code fn
+quantity	how many canadian airlines international flights are there to montreal tomorrow
+quantity	how many airports does cleveland have
+quantity	how many cities are served by ua with first class flights how many flights does each airline have with coach class service list the total number of flights to all airports by american how many flights does southwest airlines have with a class of service code qw
+quantity	list the number of flights leaving montreal to atlanta on july eleventh
+quantity	list the number of flights leaving miami for san francisco on november nineteenth
+quantity	how many cities are served by twa with coach class flights how many flights does each airline have with coach class service list the total number of flights to all airports by delta airlines how many flights does united airlines have with a class of service code fn
+quantity	how many airports does tampa today
+quantity	how many cities are served by dl with coach flights how many flights does each airline have with business class service list the total number of flights to all airports by american airline how many flights does midwest have with a class of service code q
+quantity	how many cities are served by us with coach class flights how many flights does each airline have with coach class service list the total number of flights to all airports by delta 's how many flights does eastern have with a class of service code y
+quantity	list the number of flights leaving tampa for phoenix on march eleventh
+quantity	how many business class flights does american have departing from philadelphia have
+quantity	how many flights go from phoenix to indianapolis on november ninth
+quantity	how many cities are served by twa with first class flights how many flights does each airline have with first class service list the total number of flights to all airports by eastern how many flights does midwest have with a class of service code f
+quantity	list the number of flights leaving montreal to seattle before 11 am in the night
+quantity	how many cities are served by co with coach flights how many flights does each airline have with first class service list the total number of flights to all airports by tower air how many flights does delta airline have with a class of service code h
+quantity	how many cities are served by twa with coach class flights how many flights does each airline have with business class service list the total number of flights to all airports by eastern airlines how many flights does northwest airlines have with a class of service code y
+quantity	how many cities are served by as with first class flights how many flights does each airline have with coach service list the total number of flights to all airports by united how many flights does delta have with a class of service code f
+quantity	how many coach flights does continental have departing from phoenix have
+quantity	how many coach flights does canadian airlines international have departing from miami have
+quantity	how many cities are served by co with first class flights how many flights does each airline have with coach class service list the total number of flights to all airports by continental airlines how many flights does delta 's have with a class of service code qx fare
+quantity	how many cities are served by ac with coach class flights how many flights does each airline have with first class service list the total number of flights to all airports by northwest airlines how many flights does american have with a class of service code qo
+quantity	list the number of flights leaving oakland for oakland on november third
+quantity	how many flights go from la for city of boston on september fourteenth
+quantity	how many flights go from san francisco to st. louis on august twenty ninth
+quantity	how many delta airline flights are there to long beach have
+quantity	how many flights go from ontario for los angeles before 12 pm in the evening
+quantity	how many united airlines flights are there to memphis today
+quantity	how many flights go from san jose to san francisco on march seven
+quantity	list the number of flights leaving san jose to houston before 718 am in the nighttime
+quantity	how many flights go from kansas city to baltimore on july nineteenth
+quantity	how many cities are served by co with coach flights how many flights does each airline have with coach class service list the total number of flights to all airports by northwest airline how many flights does northwest airline have with a class of service code qw
+quantity	how many airports does miami the following day
+quantity	how many cities are served by hp with first class flights how many flights does each airline have with coach service list the total number of flights to all airports by delta 's how many flights does canadian airlines international have with a class of service code qo
+quantity	how many cities are served by dl with first class flights how many flights does each airline have with business class service list the total number of flights to all airports by american how many flights does nationair have with a class of service code fn
+quantity	how many flights go from washington for tacoma on april twenty third
+quantity	how many northwest airlines flights are there to kansas city tomorrow
+quantity	how many business class flights does midwest have departing from new york the day after tomorrow
+quantity	how many airports does miami have
+quantity	how many cities are served by co with coach flights how many flights does each airline have with coach service list the total number of flights to all airports by midwest how many flights does midwest have with a class of service code qx fare
+quantity	how many cities are served by dl with coach flights how many flights does each airline have with coach service list the total number of flights to all airports by delta 's how many flights does southwest airlines have with a class of service code h
+quantity	how many flights go from westchester county to detroit before 5 in the mornings
+quantity	how many flights go from houston to philadelphia vicinity 430 pm in the early
+quantity	how many cities are served by as with coach flights how many flights does each airline have with first class service list the total number of flights to all airports by continental airlines how many flights does midwest have with a class of service code q
+quantity	how many continental airlines flights are there to charlotte the following day
+quantity	list the number of flights leaving san diego for new york city on september nineteenth
+quantity	how many cities are served by ea with coach class flights how many flights does each airline have with coach service list the total number of flights to all airports by american airline how many flights does eastern have with a class of service code f
+quantity	how many business class flights does us air have departing from boston the day after tomorrow
+quantity	how many flights go from san francisco for city of boston on september tenth
+quantity	how many cities are served by twa with coach class flights how many flights does each airline have with first class service list the total number of flights to all airports by northwest airlines how many flights does northwest airlines have with a class of service code h
+quantity	how many cities are served by as with first class flights how many flights does each airline have with coach service list the total number of flights to all airports by eastern how many flights does delta have with a class of service code y
+quantity	how many first class flights does tower air have departing from philly tomorrow

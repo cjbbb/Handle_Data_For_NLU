@@ -1,0 +1,100 @@
+ground_service	can you tell me about ground transportation between the san francisco airport and downtown las vegas
+ground_service	can i get a taxi from cleveland airport to downtown minneapolis
+ground_service	what limousines service in tacoma
+ground_service	is there limousine service available at general mitchell international
+ground_service	can you help me with ground transportation information i need to get from the airport in salt lake city to downtown washington
+ground_service	is there limousines service available at baltimore airport
+ground_service	can you tell me about ground transportation between the love field and downtown tampa
+ground_service	is there limousines service available at phoenix airport
+ground_service	is there limousine service available at atlanta airport
+ground_service	is there limousine service available at logan
+ground_service	what ground transportation is available in kansas city to downtown
+ground_service	can you help me with ground transportation information i need to get from the airport in newark to downtown charlotte
+ground_service	what is the ground transportation from baltimore airport to the city proper
+ground_service	is there ground transportation in philadelphia from the philadelphia airport to downtown denver
+ground_service	can you tell me about ground transportation between the dallas airport and downtown san francisco
+ground_service	can you tell me about ground transportation between the lester pearson airport and downtown kansas city
+ground_service	what is the ground transportation from logan to the city proper
+ground_service	is there limousine service available at lester pearson airport
+ground_service	can you help me with ground transportation information i need to get from the airport in dallas fort worth to downtown dallas
+ground_service	can you tell me about ground transportation between the boston airport and downtown las vegas
+ground_service	show me ground transportation in long beach
+ground_service	can you help me with ground transportation information i need to get from the airport in milwaukee to downtown denver
+ground_service	do you have ground transportation between airport and downtown in nashville for today
+ground_service	can i get a limousines from montreal airport to downtown st. petersburg
+ground_service	what types of ground transportation are there to love field to the city proper
+ground_service	are there any taxi or limousine services available at the philadelphia airport
+ground_service	what is the ground transportation from san francisco airport to the city proper
+ground_service	can you help me with ground transportation information i need to get from the airport in los angeles to downtown toronto
+ground_service	please give grounds transportation at phoenix airport
+ground_service	can you tell me about ground transportation between the pittsburgh airport and downtown st. louis
+ground_service	is there ground transportation in indianapolis from the logan airport to downtown salt lake city
+ground_service	can you tell me about ground transportation between the pittsburgh airport and downtown san francisco
+ground_service	can you tell me about ground transportation between the boston airport and downtown los angeles
+ground_service	can you help me with ground transportation information i need to get from the airport in san jose to downtown philadelphia
+ground_service	ground transportation in long beach
+ground_service	i 'd like to know the ground travel available in cleveland on friday evening
+ground_service	ground transport in newark for tomorrow
+ground_service	what rental car service in houston
+ground_service	can i get a limousines from chicago airport to downtown seattle
+ground_service	what types of ground transportation are there to baltimore airport to the city proper
+ground_service	what limousine service in montreal
+ground_service	is there limousines service available at dulles
+ground_service	what type of ground transportation is available at philadelphia airport
+ground_service	what taxi service in kansas city
+ground_service	what limousine service in milwaukee
+ground_service	can you help me with ground transportation information i need to get from the airport in dallas fort worth to downtown new york city
+ground_service	can i get a limousine from milwaukee airport to downtown westchester
+ground_service	is there ground transportation in chicago from the general mitchell international to downtown charlotte
+ground_service	can you tell me about ground transportation between the philadelphia airport and downtown minneapolis
+ground_service	show me ground transportation in la
+ground_service	can you tell me about ground transportation between the lester pearson airport and downtown chicago
+ground_service	can you tell me about ground transportation between the pittsburgh airport and downtown st. paul
+ground_service	what is the ground transportation from phoenix airport to the city proper
+ground_service	can you tell me about ground transportation between the baltimore airport and downtown philadelphia
+ground_service	is there ground transportation from the airport in burbank
+ground_service	is there taxi service available at boston airport
+ground_service	are there any limousine or limousines services available at the phoenix airport
+ground_service	what rental car service in new york city
+ground_service	what rental car service in st. paul
+ground_service	can i get a taxi from montreal airport to downtown baltimore
+ground_service	is there ground transportation in los angeles from the pittsburgh airport to downtown phoenix
+ground_service	can you help me with ground transportation information i need to get from the airport in salt lake city to downtown columbus
+ground_service	can you help me with ground transportation information i need to get from the airport in new york city to downtown boston
+ground_service	are there any taxi or limousine services available at the san francisco airport
+ground_service	what types of ground transportation are there to logan
+ground_service	can i get a taxi from denver airport to downtown tampa
+ground_service	is there limousine service available at atlanta airport
+ground_service	are there any rental car or limousines services available at the phoenix airport
+ground_service	what limousines service in san francisco
+ground_service	is there ground transportation in philly from the san francisco airport to downtown philadelphia
+ground_service	is there taxi service available at san francisco airport
+ground_service	can you help me with ground transportation information i need to get from the airport in salt lake city to downtown oakland
+ground_service	are there any taxi or limousines services available at the phoenix airport
+ground_service	can you help me with ground transportation information i need to get from the airport in tacoma to downtown phoenix
+ground_service	can you tell me about ground transportation between the boston airport and downtown long beach
+ground_service	what limousine service in nashville
+ground_service	can i get a limousines from denver airport to downtown tacoma
+ground_service	can i get a taxi from pittsburgh airport to downtown philadelphia
+ground_service	what taxi service in detroit
+ground_service	is there rental car service available at lester pearson airport
+ground_service	can you tell me about ground transportation between the san francisco airport and downtown oakland
+ground_service	is there ground transportation from the airport in minneapolis on wednesday nighttime
+ground_service	can i get a limousine from city of boston airport to downtown salt lake city
+ground_service	are there any taxi or limousines services available at the general mitchell international
+ground_service	can you tell me about ground transportation between the dallas airport and downtown city of boston
+ground_service	is there ground transportation in detroit from the logan to downtown atlanta
+ground_service	please give grounds transportation at love field have ground transportation to and from downtown
+ground_service	are there any limousine or limousines services available at the phoenix airport
+ground_service	is there ground transportation in nashville from the logan to downtown houston
+ground_service	is there taxi service available at general mitchell international
+ground_service	can i get a limousines from westchester county airport to downtown dallas
+ground_service	are there any taxi or taxi services available at the general mitchell international
+ground_service	can i get a limousines from columbus airport to downtown tacoma
+ground_service	are there any limousines or rental car services available at the lester pearson airport
+ground_service	show me ground transportation in san jose on monday afternoon
+ground_service	are there any taxi or taxi services available at the pittsburgh airport
+ground_service	can you help me with ground transportation information i need to get from the airport in baltimore to downtown tampa
+ground_service	can i get a taxi from phoenix airport to downtown indianapolis
+ground_service	is there ground transportation in san diego from the general mitchell international to downtown dallas fort worth
+ground_service	are there any rental car or limousine services available at the pittsburgh airport

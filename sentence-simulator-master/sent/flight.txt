@@ -1,0 +1,100 @@
+flight	only show canadian airlines international flights
+flight	i need a maximum number of stops flights philadelphia to chicago
+flight	show me a list of flights from cleveland to dc arriving about 1 o'clock on december sixth
+flight	please show me flights from boston for houston on tuesday in the night serving breakfast
+flight	list all continental airlines flights which leave dallas on friday 's and stop at st. paul
+flight	list the flights from memphis to fort worth on a thursday which are stop and cost least expensive than 416 dollars
+flight	one way
+flight	list the continental airlines flights that leave houston before 718 am
+flight	flights from montreal for new york departing vicinity 630 am
+flight	please give me a flight leaving indianapolis going to philadelphia arriving in columbus at 720 am in the nighttime
+flight	what is the during the week flight that has without stopping from westchester to san francisco on saturday
+flight	now i need flight information leaving westchester county to long beach that leave in the early that serve snack
+flight	list all flights leaving st. petersburg on eastern on friday 's vicinity 3 pm
+flight	list all flights from la on southwest airlines which depart around 7 pm
+flight	i need a return flight from boston to st. petersburg leaving la later 5 o'clock pm in the morning two friday 's
+flight	find a transcontinental flight on northwest flight from orlando to st. petersburg stopping in long beach serve supper
+flight	show me all flights from chicago to baltimore on a sunday with a one way fare most expensive than 400 dollars
+flight	list one way flights between toronto to milwaukee business class fare
+flight	i 'd like to fly without stopping from westchester county to miami and get there at 9 am
+flight	show flights from charlotte to la on monday or tuesday
+flight	does delta airlines fly from nashville dc to tacoma
+flight	does eastern airlines fly from chicago dc to cleveland
+flight	i need a flight from dallas to st. louis on friday 's the sixth
+flight	i 'd like a shortest flight from charlotte to cleveland on november fifteen
+flight	give me northwest airline from seattle to kansas city on thursday and thursday
+flight	find a flight from columbus to oakland with a layover in dc on northwest airline
+flight	what flights are available on thursday from minneapolis to milwaukee dc
+flight	please list the flights from minneapolis to dc newark on august six
+flight	list all flights from st. petersburg on american which depart about 11 am
+flight	can you give me the early flight on saturday from tacoma to indianapolis again
+flight	show me the latest flight available in the afternoon from tacoma to dc on september nineteenth
+flight	show me flights from atlanta to dallas dc on monday early
+flight	show me the flights from memphis to st. paul on saturday and monday
+flight	list all flights from philly on us air which depart about 2 pm
+flight	give me a list of all the flights from pittsburgh to tampa or fort worth to newark or boston to st. paul
+flight	show me all flights from philly to fort worth which arrive in fort worth saturdays after 5 o'clock pm
+flight	what flights depart burbank and arrive about 5 pm next tuesday in kansas city
+flight	what is the early flight that has directly from burbank to indianapolis on thursday
+flight	what 's the less flight from los angeles to vegas for both return and return flights
+flight	from baltimore to cleveland on october fourteenth i need the least expensive flight
+flight	what is the first flight that has nonstops from tampa to tacoma on saturday
+flight	what flights are there on wednesday nighttime from westchester to ewr
+flight	what maximum number of stops flights between san diego and montreal arrive around 718 am
+flight	list all flights from tampa on delta airline which depart around 630 am
+flight	show me a list of flights from newark to st. paul leaving around 9 pm and arriving around 5 o'clock
+flight	all flights oakland and arriving in boston on saturday arrival later than 1700
+flight	list all one stop from tampa to san jose leaving on thursday
+flight	list the flights from cleveland to vegas on a wednesday which are stops and cost lowest than 400 dollars
+flight	what flight goes from toronto to westchester county coach class on delta 's arriving on january eleventh
+flight	give me a list of all the flights from detroit to nashville or chicago to miami or new york city to toronto
+flight	where does canadian airlines international fly to that delta 's smallest
+flight	list flights from miami to houston on the night of november twenty fifth
+flight	what are the flights from salt lake city to phoenix on november seventh 1993
+flight	give me the flights from miami to nashville on october eight and tenth
+flight	show me all flights from long beach to philadelphia on delta on friday 's
+flight	show me the flights from philly to columbus on friday 's night later 430 pm
+flight	give me the flights from indianapolis to boston on april twentieth and fifth
+flight	what 's the under flight from milwaukee to denver on american airlines
+flight	can you give me the nighttime flight on monday from indianapolis to kansas city again
+flight	list flights from toronto to detroit leaving late in the evening of october seventh
+flight	all flights from newark to anywhere on canadian airlines international
+flight	show all flights on northwest from long beach to salt lake city to dallas dc
+flight	give me the flights from st. petersburg to oakland dc for august eleventh
+flight	i 'd like a flight today early flights for tampa to boston that includes dinner for the following day
+flight	what flights leave city of boston for minneapolis and depart before 530 on united
+flight	find a flight from orlando to phoenix with a layover in dc on tower air
+flight	give me a list of all the flights from milwaukee to san francisco or la to city of boston or oakland to las vegas
+flight	show me all flights from denver to houston which arrive in nashville about 9 pm on monday
+flight	all flights from indianapolis to ontario dc on december twenty first around 5
+flight	give me the flights from phoenix to orlando on saturdays of two week which leave montreal at before 7 am
+flight	show me the flights from boston airport to other airports list the takeoffs and landings at san francisco airport what are the classes of service on as show me the flights from all airports to san francisco airport from other airports
+flight	list all the flights that takeoff from philadelphia airport to other airports list the takeoffs and landings at philadelphia airport what are the classes of service on co list all the flights that arrive at boston airport
+flight	show me all flights between new york city and salt lake city on may thirtieth with flight schedule later 530
+flight	i would like to fly from san jose to montreal arriving in pittsburgh at 12 noon
+flight	i would like to know the flights that are available leaving out of houston to philadelphia on saturday nighttime about 430 pm
+flight	what flights does united airlines flight 311 from miami to cincinnati which depart vicinity 12 o'clock
+flight	what 's the cheapest way i can fly to la
+flight	what nighttime flights do you have available from chicago to westchester county that includes lunch for the day after tomorrow
+flight	what flight from city of boston to pittsburgh is the most expensive flight
+flight	can you tell me the night without stopping flights departing from phoenix to columbus
+flight	i 'd like to fly from los angeles to detroit to columbus could you find me the most expensive way to do this
+flight	are there any flights from columbus to denver which direct in st. louis the following day
+flight	i 'd like to see flights from minneapolis to burbank that arrive vicinity 5 pm and i 'd like to see flights from houston to san francisco that arrive vicinity 430 pm
+flight	first flight in the afternoon from tacoma to burbank
+flight	what flights are there on saturdays early from tampa to sfo
+flight	please list only continental flights to boston from houston if i will stop enroute at another city
+flight	i would like to leave around 12 pm in the night
+flight	show me all the delta flights leaving philly between 6 pm and 5 pm in the nighttime
+flight	can you give me the evening flight on thursday from st. louis to detroit again
+flight	show me all flights between phoenix and orlando on june sixteenth with times of flight around 838 am
+flight	show me the lowest cost one way flights from charlotte to st. louis leaving atlanta between 10 am and 5 o'clock
+flight	does united airlines have an night afternoon flight from vegas to burbank
+flight	i 'd like to fly one stop from baltimore to newark and get there at mealtime
+flight	i need to go from long beach to memphis in the two day find me the early flight from cleveland
+flight	what 's the latest flight from philadelphia to newark on tuesday night
+flight	i need a connecting flight on delta airlines on january twenty eighth from denver to san jose
+flight	list the flights and departure time for flights leaving new york city to dallas by 718 am
+flight	can you tell me the night one stop flights departing from cincinnati to detroit
+flight	please show me flights which cost lowest price than or equal to 1288 from nashville to denver on wednesday
+flight	i 'd like to find a one stop flight from cleveland to kansas city that leaves sometime in the night and arrives in st. louis after 6

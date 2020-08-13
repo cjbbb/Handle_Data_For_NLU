@@ -1,0 +1,101 @@
+{
+  "rule": {
+    "type": "root",
+    "children": [{
+      "type": "holder"
+    }, {
+      "type": "intent",
+      "weight": 0.15,
+      "intent": "搜会议",
+      "children": [{
+        "content": [],
+        "dropout": 0,
+        "type": "order",
+        "name": "中文会议检索",
+        "children": [{
+          "content": [],
+          "dropout": 0,
+          "type": "order",
+          "name": "中文检索前缀",
+          "children": [{
+            "content": ["给我", "想找", "想要", "想要找", "查", "查询", "检索", "显示", "展示", "查找"],
+            "type": "content",
+            "cut": 0,
+            "name": "检索起始",
+            "dropout": 0.2
+          }, {
+            "content": ["一些", "一组", "一批", "几个"],
+            "dropout": 0.3,
+            "type": "content",
+            "cut": 0,
+            "name": "量词"
+          }]
+        }, {
+          "content": [],
+          "type": "pickone",
+          "name": "扩展的关键词",
+          "dropout": 0,
+          "children": [{
+            "content": [],
+            "type": "order",
+            "name": "关键词扩展1",
+            "dropout": 0,
+            "children": [{
+              "content": ["有关", "关于"],
+              "type": "content",
+              "cut": 0,
+              "name": "有关",
+              "dropout": 0
+            }, {
+              "content": [],
+              "type": "content",
+              "cut": 0,
+              "name": "关键词（实体、来自文件）",
+              "isSlot": true,
+              "dropout": 0,
+              "entity": "1",
+              "slot": "key"
+            }]
+        }, {
+          "content": ["期刊", "会议"],
+          "dropout": 0,
+          "type": "content",
+          "cut": 0,
+          "name": "会议结尾"
+        }, {
+          "content": ["刊", "会"],
+          "dropout": 0,
+          "type": "content",
+          "cut": 0,
+          "name": "会议"
+        }]
+      }]
+    }]
+        }]
+  },
+  "entity": [{
+    "id": "1",
+    "name": "KEY",
+    "entries": ["KEY11 Key12", "KEY2"]
+  }, {
+    "id": "DATE",
+    "name": "DATE",
+    "entries": ["DATE1", "DATE2"]
+  }, {
+    "id": "PER",
+    "name": "PER",
+    "entries": ["PER1", "PER2"]
+  }, {
+    "id": "ORG",
+    "name": "ORG",
+    "entries": ["ORG1", "ORG2"]
+  }, {
+    "id": "CON",
+    "name": "CON",
+    "entries": ["CON1", "CON2"]
+  }, {
+    "id": "FILE",
+    "name": "FILE",
+    "entries": ["FILE1", "FILE2"]
+  }]
+}
